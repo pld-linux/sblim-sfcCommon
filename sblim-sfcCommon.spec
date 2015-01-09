@@ -1,12 +1,12 @@
 Summary:	SBLIM common library for functions shared between sfcb and sfcc
 Summary(pl.UTF-8):	Wspólna biblioteka SBLIM zawierajaca funkcje używane przez sfcb i sfcc
 Name:		sblim-sfcCommon
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	Eclipse Public License v1.0
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/sblim/%{name}-%{version}.tar.bz2
-# Source0-md5:	de3ca269c8ecefb803d62d2c81373470
+# Source0-md5:	8aa2655d97bdea54c4750f220b40990c
 URL:		http://sblim.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
